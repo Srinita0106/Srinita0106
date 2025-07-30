@@ -1,7 +1,9 @@
-<h1 align="center">Hey there 👋, I'm Srinita!</h1>
-<h3 align="center">🚀 Fueling Intelligence into Machines | AI/ML Enthusiast | Data Whisperer | Generative AI Explorer</h3>
+<h1 align="center">Hi 👋, I'm Srinita Jayaraj</h1>
+<h3 align="center">⚡ AI Explorer | ML Researcher | Generative AI Enthusiast | Future Data Scientist</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=F76C6C&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Intelligent+Solutions;Exploring+AI+that+Understands+the+World;Crafting+ML+Models+with+Purpose+%26+Precision" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&width=900&lines=Turning+Ideas+into+Intelligence;Building+AI+that+Sees%2C+Thinks%2C+Learns;Real-World+ML+Solutions+with+Purpose+%26+Precision;Crafting+LLMs+%7C+Vision+Models+%7C+RAG+Apps;Exploring+the+Intersection+of+Data%2C+Code%2C+Creativity" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -50,6 +52,15 @@
 
 ---
 
+
+### 🏆 Achievements
+
+- 🥉 **Second Runner Up** in FOSS Frontend Hackathon @ CIT  
+- 🧑‍💻 **Finalist**, NEXUS National Hackathon — led end-to-end tech development  
+- 🧠 Shortlisted for **Smart India Hackathon** with an original problem-solving proposal  
+- 🛠️ **Organizer**, Melinia 2025 Hackathon (200+ participants)
+
+---
 ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinita-jayaraj) 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jssrinita@gmail.com) 
@@ -57,16 +68,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinita0106&theme=radical&show_icons=true&hide_border=false" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinita0106&layout=compact&theme=radical&hide_border=false" width="47%"/>
-</div>
-
----
 
 ### 🧩 Fun Fact
-> I use GANs for security, Transformers for text, and coffee for everything else. ☕🤖
+
+- 🧃 I blend **generative AI + security** into honeypots that fight cybercrime  
+- 🧬 I love reverse engineering cool AI papers into practical tools  
+- 🌍 Dreaming of AI that makes tech **accessible, inclusive, and intelligent**
 
 ---
 
