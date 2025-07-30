@@ -1,17 +1,75 @@
-# 💫 About Me:
-👨‍🎓 I’m currently studying at Coimbatore Institute of Technology, specializing in AI & ML.<br>🔭 I’m currently working on solidifying my foundation in Python to tackle real-world challenges with innovative solutions.<br>👯 I’m looking to collaborate on AI & ML projects that push the boundaries of technology.<br>🤝 I’m looking for help with gaining internships or research opportunities to enhance my practical experience.<br>🌱 I’m currently learning advanced AI & ML techniques through workshops, webinars, and conferences.<br>💬  Let's discuss the latest trends and breakthroughs in artificial intelligence and machine learning.<br>⚡ Fun fact: I'm dedicated to continuous learning and staying at the forefront of this dynamic field!
+<h1 align="center">Hey there 👋, I'm Srinita!</h1>
+<h3 align="center">🚀 Fueling Intelligence into Machines | AI/ML Enthusiast | Data Whisperer | Generative AI Explorer</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srinita-jayaraj-b3b27a227/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)Tableau
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinita0106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=F76C6C&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Intelligent+Solutions;Exploring+AI+that+Understands+the+World;Crafting+ML+Models+with+Purpose+%26+Precision" alt="Typing SVG" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=srinita0106&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+- 🎓 Pursuing Integrated MSc in AI & ML at **Coimbatore Institute of Technology**  
+- 🔍 AI Intern @ **ZF Wind Power** — Built LLMs, real-time vision systems, and reduced root cause analysis time by 40%  
+- 🛠️ Projects with purpose: [AIQry](#-projects), [PredictX](#-projects), [Honeypot Horizon](#-projects)  
+- 📚 Learning never stops — diving deep into LLMs, GANs, RAG, CV, and Generative AI  
+- 🧩 Hackathon finalist, community builder, and caffeine-powered night owl  
+- 🛤️ Actively looking for **research or internship opportunities** to grow through hands-on AI innovation  
+
+---
+
+### 🚀 Current Focus
+- Building **LLM-based real-world apps** with LangChain, FAISS, Hugging Face  
+- Exploring **Generative AI for security, automation, and creativity**  
+- Turning messy data into magic ✨ with **ML, CV, NLP**, and smart visualization  
+
+---
+
+### 🧩 Projects
+| 🌟 Project | 🔍 Description | 🧠 Tech |
+|-----------|----------------|--------|
+| [AIQry](https://github.com/Srinita0106/Resume-Projects/blob/main/AIQry_Project.ipynb) | 🗣️ Semantic SQL search using NLP for schema-aware natural language queries | Sentence-BERT, SQL, Streamlit |
+| [PredictX](https://github.com/Srinita0106/Projects/blob/main/Predictive_Maintanance1.ipynb) | 🏭 Machine failure forecasting using ML on 10K+ records | Sklearn, EDA, RF |
+| [Honeypot Horizon](https://github.com/Srinita0106/Resume-Projects/blob/main/Honeypot_Horizon.ipynb) | 🕵️‍♀️ AI-powered cyber deception with LLM honeypots & VAEs | GPT-2, VAE, GAN, PyTorch |
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:**  
+`Python` `SQL` `Java` `C` `R` `HTML/CSS`  
+
+**AI/ML Frameworks:**  
+`TensorFlow` `PyTorch` `Keras` `Scikit-learn` `OpenCV` `Hugging Face` `LangChain` `EasyOCR`
+
+**Data Tools:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Power BI` `Tableau`
+
+**Databases:**  
+`MySQL` `MongoDB` `Apache Hadoop` `Apache Hive`
+
+**Cool Extras:**  
+`LLMs` `YOLOv8` `FAISS` `Figma` `Regex Mastery`
+
+---
+
+### 🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinita-jayaraj) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jssrinita@gmail.com) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srinita0106)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinita0106&theme=radical&show_icons=true&hide_border=false" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinita0106&layout=compact&theme=radical&hide_border=false" width="47%"/>
+</div>
+
+---
+
+### 🧩 Fun Fact
+> I use GANs for security, Transformers for text, and coffee for everything else. ☕🤖
+
+---
+
+### 🏁 Let’s Build the Future of AI Together!
+
+<!-- Creative readme designed with ❤️ by ChatGPT + GPRM magic -->
